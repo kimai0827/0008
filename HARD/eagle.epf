@@ -1,0 +1,24 @@
+[Eagle]
+Version="06 02 00"
+Platform="Windows"
+Serial="6F2CB4CAC2-LSR-WLM-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-6.2.0/lbr/kimai0827/kimai0827.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.2.0/lbr/kimai0827/pinhead.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.2.0/lbr/kimai0827/supply1.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.2.0/lbr/kimai0827/maxstream.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.2.0/lbr/kimai0827/microchip.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="44 44 952 638"
+State=2
+Number=0
+
+[Desktop]
+Screen="1024 768"
+Window="Win_1"
